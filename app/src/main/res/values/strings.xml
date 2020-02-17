@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoPower</string>
+    <string name="room_name">Name</string>
+    <string name="ip_address">IP Address</string>
+    <string name="device_name">Device name</string>
+    <string name="add">Add</string>
+    <string name="button">Save</string>
+    <string name="failed_to_add_room">Failed to add room</string>
+    <string name="room_created">Room Created</string>
+</resources>
